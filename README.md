@@ -65,7 +65,7 @@
             alt="typescript" width="40" height="40" /></a> </p>
 
 ---
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockefay&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rockefay" /></p>
 
