@@ -7,7 +7,7 @@
 
 <p>
 🔍 I'm a Computer Science student passionate about building dynamic and user-friendly applications.<br/> 
-💡 I have experience developing various projects — both independently and in collaboration — ranging from personal initiatives to academic assignments.<br/> 
+💡 I have experience developing various projects - both independently and in collaboration - ranging from personal initiatives to academic assignments.<br/> 
 🧑‍💻 I focus on writing clean, efficient code and continuously expanding my skills to create scalable solutions.<br/>   
 🚀 Eager to contribute to innovative projects and grow as a developer.<br/> 
 
